@@ -7,11 +7,11 @@ const navLinks = [
     },
     {
       id: "about",
-      title: "about",
+      title: "About",
     },
     {
       id: "contact",
-      title: "contact",
+      title: "Contact",
     },
 ];
 
